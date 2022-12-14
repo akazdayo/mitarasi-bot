@@ -25,5 +25,5 @@ def credit():
 
 
 def word():
-    prohibited_word = ["http", "://", "死", "うざい", "殺", "ﾀﾋ", "きも", "キモ", "://www", ".com", ".co.jp", ".jp", "@", "消えろ", ":", ":middle_finger:"]
+    prohibited_word = ["http", "://", "://www", ".com", ".co.jp", ".jp", "@", ":"]
     return prohibited_word
